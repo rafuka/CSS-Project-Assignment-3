@@ -1,0 +1,30 @@
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro';
+
+#profile-card {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	width: 300px; /* Width may change if needed */
+	padding: 20px;
+	border: 1px solid rgba(0,0,0,0.2);
+
+}
+
+#card-img {
+	width: 90%;
+	margin: 20px auto;
+	display: block;
+	border-radius: 7px;
+}
+
+#name, #about-title {
+	color: #d84200;
+	margin: 12px 0px;
+}
+
+#about {
+	color: gray;
+}
+
+hr {
+	border-color: rgba(0,0,0,0.1);
+}
