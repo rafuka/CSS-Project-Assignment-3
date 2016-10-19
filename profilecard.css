@@ -6,7 +6,7 @@
 	width: 300px; /* Width may change if needed */
 	padding: 20px;
 	border: 1px solid rgba(0,0,0,0.2);
-
+	margin: 0 auto;
 }
 
 #card-img {
